@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuzhaoren/CLionProjects/link_table2/list.cpp
+list.h
+/Users/liuzhaoren/CLionProjects/link_table2/list.h
+
+/Users/liuzhaoren/CLionProjects/link_table2/list.h
+string.h
+-
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
+/Users/liuzhaoren/CLionProjects/link_table2/main.cpp
+list.h
+/Users/liuzhaoren/CLionProjects/link_table2/list.h
+
