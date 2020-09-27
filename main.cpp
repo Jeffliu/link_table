@@ -1,7 +1,4 @@
-#include"main_1.h"
-typedef int ElemType;
-#include"main_2.h"
-#include"main_1.cpp"
+#include"list.h"
 
 Status equal(ElemType c1,ElemType c2)
 {

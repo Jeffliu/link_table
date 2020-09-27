@@ -7,5 +7,5 @@ file(GLOB SOURCES
         *.cpp
         )
 
-set(SOURCE_FILES main.cpp main_1.cpp)
+set(SOURCE_FILES main.cpp list.cpp)
 add_executable(link_table  ${SOURCE_FILES} ${SOURCES})

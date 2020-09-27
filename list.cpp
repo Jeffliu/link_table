@@ -1,4 +1,7 @@
- // bo2-2.cpp 单链表线性表(存储结构由c2-2.h定义)的基本操作(12个)
+
+#include "list.h"
+
+// bo2-2.cpp 单链表线性表(存储结构由c2-2.h定义)的基本操作(12个)
  Status InitList(LinkList &L)
  { // 操作结果：构造一个空的线性表L
    L=(LinkList)malloc(sizeof(LNode)); // 产生头结点,并使L指向此头结点
